@@ -228,6 +228,7 @@ header:after{
 	position: absolute;
 	top: 18px;
 	left: 23px;
+	text-transform: uppercase;
 }
 .last_block1 p{
 	color: #3D58A6;
