@@ -61,9 +61,6 @@ li{
 	height: 0px;
 	width: 0px;
 }
-header:after{
-	clear: both;
-}
 .bg1{
 	background-color: #E6E6E6;
 	margin-top: 20px;
